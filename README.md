@@ -48,3 +48,10 @@ A: Yeah lighting take forever so it is something I am actively working on, as we
 These projects take a lot of time so it is always nice to have a way for people to support the things I work on :)
 
 https://ko-fi.com/plasteredcrab
+
+# Credits
+- Major-MoreInteriors for his tutorial series I used to learn a lot of the basics
+- Batby for their amazing work with LethalLevelLoader
+- AudioKnight for his tutorial series on making a custom Moon
+- SherlockJake for working with me to figure out how to get the asset bundles to build
+- The amazing Interior modders out there who helped with random bugs I came across (Cobertos, Lavender, Drako, Zersal, RosiePies, MusicalSleep, Badhamknibbs, Goldblaze, etc)
