@@ -22,6 +22,10 @@
 
 ![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/93fc6b79-3927-4c09-8a33-69691fdd2133)
 
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/da5932d2-54c2-40da-863f-b7d4206adeda)
+
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/10887f6f-41a3-4d15-bf86-e40978300a65)
+
 ![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/4ff24fa6-343b-4f04-91e7-0eca30b5721b)
 
 ![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/e3f2c072-c9cb-40de-a7ba-71f45b4a8d62)
