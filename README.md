@@ -18,6 +18,28 @@
 - Secret Fire Exit shortcut jump
 
 # Screenshots
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/1af956e4-228c-45d9-a7c8-efbd4a1d7274)
+
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/93fc6b79-3927-4c09-8a33-69691fdd2133)
+
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/4ff24fa6-343b-4f04-91e7-0eca30b5721b)
+
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/e3f2c072-c9cb-40de-a7ba-71f45b4a8d62)
+
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/f7eb941b-7a9c-45de-9198-ddb2d3bd42ed)
+
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/b7686103-cfe5-49f3-ba9a-847a56f5369d)
+
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/c918f435-bde7-4d01-a0a7-a8d098ecbd9b)
+
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/996d7b4e-fcad-4c1d-8f06-528b377142bb)
+
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/a05d13ff-7c30-4995-a68d-1812d1050c98)
+
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/9ce10450-5acc-49b7-84a3-8556226e6032)
+
+![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/8ee8a817-54f9-4eb7-ad55-eec96136ed85)
+
 
 
 # FAQ
