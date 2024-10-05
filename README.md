@@ -23,24 +23,30 @@
 - Main Entrance locks after 5 minutes if power is pulled
 
 # Screenshots
+Main Entrance
 ![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/1af956e4-228c-45d9-a7c8-efbd4a1d7274)
 
 ![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/93fc6b79-3927-4c09-8a33-69691fdd2133)
 
+Resonance Cascade Chamber
 ![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/da5932d2-54c2-40da-863f-b7d4206adeda)
 
 ![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/10887f6f-41a3-4d15-bf86-e40978300a65)
-
-![20241001205328_1](https://github.com/user-attachments/assets/e18ef5dc-b632-4623-8766-d2303e690ca3)
-
-![20241001210643_1](https://github.com/user-attachments/assets/96847ed1-ac17-44bc-b37f-e25bff2a3b1d)
 
 ![20241001213643_1](https://github.com/user-attachments/assets/cd71b8ed-5ab9-430d-aab7-106e38f1bf63)
 
 ![20241001212106_1](https://github.com/user-attachments/assets/f063de28-d573-4d52-b485-89428fa57ad8)
 
+Surveillance Security Room in Main Entrance (with Handheld TV Zagcams)
+![20241001205328_1](https://github.com/user-attachments/assets/e18ef5dc-b632-4623-8766-d2303e690ca3)
+
+Wall Mounted Tripmines and Toxic Waste Barrels
+![20241001210643_1](https://github.com/user-attachments/assets/96847ed1-ac17-44bc-b37f-e25bff2a3b1d)
+
+HEV Healing Station
 ![20241004121943_1](https://github.com/user-attachments/assets/f2deb42b-2688-47df-a5ee-e6fd8db3f765)
 
+HEV Charging Station
 ![20241004123232_1](https://github.com/user-attachments/assets/65af29ed-0043-44ff-bd41-23be67484586)
 
 ![20241001210616_1](https://github.com/user-attachments/assets/30b6ddb3-4c42-45f2-9add-8568e9077807)
@@ -51,20 +57,16 @@
 
 ![20241001195820_1](https://github.com/user-attachments/assets/034588b1-28b0-4b5d-b95b-57cc44d44c5c)
 
+Lockers where you can hide from Monsters in
 ![20241001200117_1](https://github.com/user-attachments/assets/5f5a94d7-5353-4cf0-a9d4-2444bf0c5176)
 
 ![20241001211510_1](https://github.com/user-attachments/assets/bf4eaef7-2743-46b8-913d-96828082a852)
 
 ![20241001211627_1](https://github.com/user-attachments/assets/79ac55d4-2078-4093-830b-3343bb8cd233)
 
-
 ![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/e3f2c072-c9cb-40de-a7ba-71f45b4a8d62)
 
 ![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/f7eb941b-7a9c-45de-9198-ddb2d3bd42ed)
-
-![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/b7686103-cfe5-49f3-ba9a-847a56f5369d)
-
-![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/c918f435-bde7-4d01-a0a7-a8d098ecbd9b)
 
 ![image](https://github.com/PlasteredCrab/BlackMesaLethalCompany/assets/49732785/996d7b4e-fcad-4c1d-8f06-528b377142bb)
 
